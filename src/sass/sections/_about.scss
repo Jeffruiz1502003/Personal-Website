@@ -17,9 +17,14 @@
     clip-path: none;
   }
 
+
+  .paragragh {
+    font-size: 40;
+  }
   .about-wrapper {
     @include respond(phone) {
       padding-bottom: 5rem;
+
     }
 
     &__image {
