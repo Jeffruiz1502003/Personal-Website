@@ -1,0 +1,20 @@
+html {
+  font-size: 62.5%;
+
+  &.sr .load-hidden {
+    visibility: hidden;
+  }
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  background-color: white;
+}
+
+hr {
+  background-color: linear-gradient(
+    135deg,
+    $primary-color 0%,
+    $secondary-color 100%);
+}
