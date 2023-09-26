@@ -1,4 +1,4 @@
-5404
+5406
 61C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\globby133402323519395358 1
 76C:\Users\Jeffrey\Desktop\Personal-Website\src\sass\abstracts\_variables.scss133401358786402639 0
 75C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\reusify\package.json133402323517624086 0
@@ -34,7 +34,7 @@
 77C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\nth-check\lib\parse.js133402323516358874 0
 105C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\caniuse-lite\data\features\font-variant-numeric.js133402323528277511 0
 65C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\is-extglob133402323520980637 1
-46C:\Users\Jeffrey\Desktop\Personal-Website\dist133402329096175846 1
+46C:\Users\Jeffrey\Desktop\Personal-Website\dist133402332407584192 1
 94C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\@parcel\runtime-browser-hmr\src\loaders133402323516723933 1
 90C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\css-tree\lib\syntax\atrule\index.js133402323523982211 0
 98C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\csso\lib\restructure\4-restructShorthand.js133402323515756966 0
@@ -117,11 +117,11 @@
 106C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\posthtml\node_modules\posthtml-parser\dist\index.js133402323514851804 0
 103C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\electron-to-chromium\full-chromium-versions.json133402323517134011 0
 70C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\ignore\index.js133402323518615215 0
-56C:\Users\Jeffrey\Desktop\Personal-Website\src\index.html133402287380624113 0
+56C:\Users\Jeffrey\Desktop\Personal-Website\src\index.html133402332276977478 0
 82C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\bootstrap\scss\_toasts.scss133402323528077477 0
 67C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\sass\sass.js133402323523897193 0
 70C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\merge2\index.js133402323518610222 0
-54C:\Users\Jeffrey\Desktop\Personal-Website\src\index.js133402292318401733 0
+54C:\Users\Jeffrey\Desktop\Personal-Website\src\index.js133402332305316362 0
 50C:\Users\Jeffrey\Desktop\Personal-Website\src\sass133401358786442466 1
 74C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\globby\gitignore.js133402323518375175 0
 85C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\@swc\helpers\src\_to_array.mjs133402323526412640 0
@@ -132,7 +132,7 @@
 70C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\htmlparser2\lib133402323519480373 1
 85C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\bootstrap\js\dist\toast.js.map133402323527387355 0
 82C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\type-fest\source\merge.d.ts133402323520305515 0
-69C:\Users\Jeffrey\Desktop\Personal-Website\src\scripts\scrollReveal.js133402292355467610 0
+69C:\Users\Jeffrey\Desktop\Personal-Website\src\scripts\scrollReveal.js133402332361116612 0
 104C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\@parcel\core\test\fixtures\custom-targets-distdir133402323526727235 1
 83C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\domutils\lib\legacy.d.ts.map133402323518735241 0
 100C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\caniuse-lite\data\features\async-clipboard.js133402323522261901 0
@@ -143,7 +143,7 @@
 74C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\css-tree\lib\syntax133402323524227252 1
 89C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\@parcel\namer-default\package.json133402323515446907 0
 111C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts.map133402323518620216 0
-70C:\Users\Jeffrey\Desktop\Personal-Website\src\scripts\tiltAnimation.js133402292343811823 0
+70C:\Users\Jeffrey\Desktop\Personal-Website\src\scripts\tiltAnimation.js133402332350416036 0
 86C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\htmlnano\lib\presets\ampSafe.js133402323514516738 0
 73C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\htmlnano\README.md133402323524112232 0
 88C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\bootstrap\scss\mixins\_lists.scss133402323527872438 0
@@ -220,7 +220,7 @@
 82C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\yaml\dist\legacy-exports.js133402323517963947 0
 60C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\chalk133402323516302054 1
 106C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\caniuse-lite\data\features\dom-manip-convenience.js133402323527772420 0
-72C:\Users\Jeffrey\Desktop\Personal-Website\src\data\scrollRevealConfig.js133402292373186932 0
+72C:\Users\Jeffrey\Desktop\Personal-Website\src\data\scrollRevealConfig.js133402332406647799 0
 90C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\@lmdb\lmdb-win32-x64\node.napi.node133402323521971853 0
 69C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\normalize-path133402323518950276 1
 70C:\Users\Jeffrey\Desktop\Personal-Website\src\sass\sections\_hero.scss133401358786432755 0
@@ -3083,7 +3083,7 @@
 70C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\detect-libc\bin133402323519270335 1
 86C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\caniuse-lite\data\regions\IE.js133402323528707586 0
 74C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\detect-libc\LICENSE133402323519125313 0
-57C:\Users\Jeffrey\Desktop\Personal-Website\dist\index.html133402329095770771 0
+57C:\Users\Jeffrey\Desktop\Personal-Website\dist\index.html133402332280433531 0
 76C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\detect-libc\README.md133402323518865264 0
 85C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\detect-libc\lib\detect-libc.js133402323519465370 0
 72C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\csso\CHANGELOG.md133402323523337095 0
@@ -3519,6 +3519,7 @@
 86C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\caniuse-lite\data\regions\MY.js133402323530142843 0
 86C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\caniuse-lite\data\regions\MZ.js133402323530152851 0
 86C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\caniuse-lite\data\regions\NC.js133402323530182849 0
+64C:\Users\Jeffrey\Desktop\Personal-Website\dist\index.975ef6c8.js133402332407564185 0
 86C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\caniuse-lite\data\regions\NE.js133402323530187852 0
 86C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\caniuse-lite\data\regions\NF.js133402323530197849 0
 86C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\caniuse-lite\data\regions\NG.js133402323530202848 0
@@ -5401,5 +5402,6 @@
 73C:\Users\Jeffrey\Desktop\Personal-Website\dist\deep-learning.ef2fc2bd.png133402329095745770 0
 65C:\Users\Jeffrey\Desktop\Personal-Website\dist\index.4a508c1d.css133402329095770771 0
 69C:\Users\Jeffrey\Desktop\Personal-Website\dist\index.4a508c1d.css.map133402329095800780 0
+68C:\Users\Jeffrey\Desktop\Personal-Website\dist\index.975ef6c8.js.map133402332407579189 0
 79C:\Users\Jeffrey\Desktop\Personal-Website\dist\Personal-Website.59712999.js.map133402329095800780 0
 67C:\Users\Jeffrey\Desktop\Personal-Website\dist\project.f500882b.jpg133402329095620746 0
