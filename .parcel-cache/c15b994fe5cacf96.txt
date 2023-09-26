@@ -57,7 +57,7 @@
 83C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\@parcel\workers\lib\child.js133401361816995515 0
 89C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\type\test\plain-function\ensure.js133401358785441313 0
 84C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\lightningcss\node\ast.js.flow133402189791829047 0
-46C:\Users\Jeffrey\Desktop\Personal-Website\dist133402207041961685 1
+46C:\Users\Jeffrey\Desktop\Personal-Website\dist133402217729656529 1
 98C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\csso\lib\restructure\4-restructShorthand.js133402189794469424 0
 85C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\type\test\plain-function\is.js133401358785446319 0
 81C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\msgpackr\dist\node.cjs.map133401360128707762 0
@@ -210,7 +210,7 @@
 68C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\core-js\stage133401358770104313 1
 94C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\vanilla-tilt\dist\vanilla-tilt.babel.js133401358785671588 0
 70C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\htmlparser2\lib133402189793158668 1
-69C:\Users\Jeffrey\Desktop\Personal-Website\src\scripts\scrollReveal.js133401358786447469 0
+69C:\Users\Jeffrey\Desktop\Personal-Website\src\scripts\scrollReveal.js133402217525371874 0
 82C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\type-fest\source\merge.d.ts133402189793428873 0
 79C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\safe-buffer\package.json133401358784077983 0
 61C:\Users\Jeffrey\Desktop\Personal-Website\src\sass\components133401358786417649 1
@@ -5914,7 +5914,7 @@
 109C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\csso\node_modules\css-tree\cjs\syntax\config\lexer.cjs133402189794949698 0
 116C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\@parcel\package-manager\test\fixtures\packages\peers\index.js133401361817314230 0
 110C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\csso\node_modules\css-tree\cjs\syntax\config\parser.cjs133402189795260596 0
-64C:\Users\Jeffrey\Desktop\Personal-Website\dist\index.975ef6c8.js133402207041816832 0
+64C:\Users\Jeffrey\Desktop\Personal-Website\dist\index.975ef6c8.js133402217729621525 0
 109C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\index.cjs133402189794775053 0
 86C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\caniuse-lite\data\regions\NE.js133401358764959160 0
 122C:\Users\Jeffrey\Desktop\Personal-Website\node_modules\@parcel\node-resolver-core\parcel-resolver.linux-arm-gnueabihf.node133401360126873352 0
@@ -10023,5 +10023,5 @@
 70C:\Users\Jeffrey\Desktop\Personal-Website\dist\background.0a289d88.gif133401358747675329 0
 73C:\Users\Jeffrey\Desktop\Personal-Website\dist\deep-learning.ef2fc2bd.png133402207041856970 0
 65C:\Users\Jeffrey\Desktop\Personal-Website\dist\index.4a508c1d.css133402207041791807 0
-68C:\Users\Jeffrey\Desktop\Personal-Website\dist\index.975ef6c8.js.map133402207041841969 0
+68C:\Users\Jeffrey\Desktop\Personal-Website\dist\index.975ef6c8.js.map133402217729651528 0
 64C:\Users\Jeffrey\Desktop\Personal-Website\dist\assets\resume.pdf133402207041233454 0
